@@ -29,25 +29,25 @@ msgstr  "유니파잉 수신기"
 #: lib/logitech_receiver/base_usb.py:93 lib/logitech_receiver/base_usb.py:106
 #: lib/logitech_receiver/base_usb.py:119
 msgid   "Nano Receiver"
-msgstr  ""
+msgstr  "나노 수신기"
 
 #: lib/logitech_receiver/base_usb.py:131
 msgid   "Lightspeed Receiver"
-msgstr  ""
+msgstr  "라이트스피드 수신기"
 
 #: lib/logitech_receiver/base_usb.py:141
 msgid   "EX100 Receiver 27 Mhz"
-msgstr  ""
+msgstr  "EX100 수신기 27 Mhz"
 
 #: lib/logitech_receiver/common.py:610
 #, python-format
 msgid   "Battery: %(level)s (%(status)s)"
-msgstr  ""
+msgstr  "배터리: %(level)s (%(status)s)"
 
 #: lib/logitech_receiver/common.py:613
 #, python-format
 msgid   "Battery: %(percent)d%% (%(status)s)"
-msgstr  ""
+msgstr  "배터리: %(percent)d%% (%(status)s)"
 
 #: lib/logitech_receiver/hidpp20.py:921
 #: lib/logitech_receiver/settings_templates.py:283
@@ -104,87 +104,87 @@ msgstr  ""
 
 #: lib/logitech_receiver/hidpp20.py:997
 msgid   "Primary"
-msgstr  ""
+msgstr  "주"
 
 #: lib/logitech_receiver/hidpp20.py:998
 msgid   "Logo"
-msgstr  ""
+msgstr  "로고"
 
 #: lib/logitech_receiver/hidpp20.py:999
 msgid   "Left Side"
-msgstr  ""
+msgstr  "왼쪽"
 
 #: lib/logitech_receiver/hidpp20.py:1000
 msgid   "Right Side"
-msgstr  ""
+msgstr  "오른쪽"
 
 #: lib/logitech_receiver/hidpp20.py:1001
 msgid   "Combined"
-msgstr  ""
+msgstr  "결합된"
 
 #: lib/logitech_receiver/hidpp20.py:1002
 msgid   "Primary 1"
-msgstr  ""
+msgstr  "주 1"
 
 #: lib/logitech_receiver/hidpp20.py:1003
 msgid   "Primary 2"
-msgstr  ""
+msgstr  "주 2"
 
 #: lib/logitech_receiver/hidpp20.py:1004
 msgid   "Primary 3"
-msgstr  ""
+msgstr  "주 3"
 
 #: lib/logitech_receiver/hidpp20.py:1005
 msgid   "Primary 4"
-msgstr  ""
+msgstr  "주 4"
 
 #: lib/logitech_receiver/hidpp20.py:1006
 msgid   "Primary 5"
-msgstr  ""
+msgstr  "주 5"
 
 #: lib/logitech_receiver/hidpp20.py:1007
 msgid   "Primary 6"
-msgstr  ""
+msgstr  "주 6"
 
 #: lib/logitech_receiver/i18n.py:28
 msgid   "empty"
-msgstr  ""
+msgstr  "비어있음"
 
 #: lib/logitech_receiver/i18n.py:29
 msgid   "critical"
-msgstr  ""
+msgstr  "중요한"
 
 #: lib/logitech_receiver/i18n.py:30
 msgid   "low"
-msgstr  ""
+msgstr  "낮음"
 
 #: lib/logitech_receiver/i18n.py:31
 msgid   "average"
-msgstr  ""
+msgstr  "평균"
 
 #: lib/logitech_receiver/i18n.py:32
 msgid   "good"
-msgstr  ""
+msgstr  "좋음"
 
 #: lib/logitech_receiver/i18n.py:33
 msgid   "full"
-msgstr  ""
+msgstr  "완충"
 
 #: lib/logitech_receiver/i18n.py:35
 msgid   "discharging"
-msgstr  ""
+msgstr  "방전"
 
 #: lib/logitech_receiver/i18n.py:36
 msgid   "recharging"
-msgstr  ""
+msgstr  "재충전중"
 
 #: lib/logitech_receiver/i18n.py:37
 msgid   "charging"
-msgstr  ""
+msgstr  "충전중"
 
 #: lib/logitech_receiver/i18n.py:38
 msgid   "not charging"
-msgstr  ""
+msgstr  "충전 중이 아님"
 
 #: lib/logitech_receiver/i18n.py:39
 msgid   "almost full"
@@ -200,7 +200,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:42
 msgid   "invalid battery"
-msgstr  ""
+msgstr  "유효하지 않은 배터리"
 
 #: lib/logitech_receiver/i18n.py:43
 msgid   "thermal error"
@@ -208,7 +208,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:44
 msgid   "error"
-msgstr  ""
+msgstr  "에러"
 
 #: lib/logitech_receiver/i18n.py:45
 msgid   "standard"
@@ -216,19 +216,19 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:46
 msgid   "fast"
-msgstr  ""
+msgstr  "빠른"
 
 #: lib/logitech_receiver/i18n.py:47
 msgid   "slow"
-msgstr  ""
+msgstr  "느린"
 
 #: lib/logitech_receiver/i18n.py:49
 msgid   "device timeout"
-msgstr  ""
+msgstr  "시간초과"
 
 #: lib/logitech_receiver/i18n.py:50
 msgid   "device not supported"
-msgstr  ""
+msgstr  "지원하지 않는 장치"
 
 #: lib/logitech_receiver/i18n.py:51
 msgid   "too many devices"
@@ -248,7 +248,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:56
 msgid   "Hardware"
-msgstr  ""
+msgstr  "하드웨어"
 
 #: lib/logitech_receiver/i18n.py:57
 msgid   "Other"
@@ -256,19 +256,19 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:59
 msgid   "Left Button"
-msgstr  ""
+msgstr  "왼쪽 버튼"
 
 #: lib/logitech_receiver/i18n.py:60
 msgid   "Right Button"
-msgstr  ""
+msgstr  "오른쪽 버튼"
 
 #: lib/logitech_receiver/i18n.py:61
 msgid   "Middle Button"
-msgstr  ""
+msgstr  "중간 버튼"
 
 #: lib/logitech_receiver/i18n.py:62
 msgid   "Back Button"
-msgstr  ""
+msgstr  "뒤로가기 버튼"
 
 #: lib/logitech_receiver/i18n.py:63
 msgid   "Forward Button"
@@ -276,7 +276,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:64
 msgid   "Mouse Gesture Button"
-msgstr  ""
+msgstr  "마우스 제스처 버튼"
 
 #: lib/logitech_receiver/i18n.py:65
 msgid   "Smart Shift"
@@ -284,27 +284,27 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:66
 msgid   "DPI Switch"
-msgstr  ""
+msgstr  "DPI 스위치"
 
 #: lib/logitech_receiver/i18n.py:67
 msgid   "Left Tilt"
-msgstr  ""
+msgstr  "왼쪽 기울기"
 
 #: lib/logitech_receiver/i18n.py:68
 msgid   "Right Tilt"
-msgstr  ""
+msgstr  "오른쪽 기울기"
 
 #: lib/logitech_receiver/i18n.py:69
 msgid   "Left Click"
-msgstr  ""
+msgstr  "왼쪽 클릭"
 
 #: lib/logitech_receiver/i18n.py:70
 msgid   "Right Click"
-msgstr  ""
+msgstr  "오른쪽 클릭"
 
 #: lib/logitech_receiver/i18n.py:71
 msgid   "Mouse Middle Button"
-msgstr  ""
+msgstr  "마우스 중간 버튼"
 
 #: lib/logitech_receiver/i18n.py:72
 msgid   "Mouse Back Button"
@@ -320,15 +320,15 @@ msgstr  ""
 
 #: lib/logitech_receiver/i18n.py:75
 msgid   "Mouse Scroll Left Button"
-msgstr  ""
+msgstr  "마우스 스크롤 왼쪽 버튼"
 
 #: lib/logitech_receiver/i18n.py:76
 msgid   "Mouse Scroll Right Button"
-msgstr  ""
+msgstr  "마우스 스크롤 오른쪽 버튼"
 
 #: lib/logitech_receiver/i18n.py:78
 msgid   "pressed"
-msgstr  ""
+msgstr  "누르기"
 
 #: lib/logitech_receiver/i18n.py:79
 msgid   "released"
@@ -337,12 +337,12 @@ msgstr  ""
 #: lib/logitech_receiver/notifications.py:64
 #: lib/logitech_receiver/notifications.py:116
 msgid   "pairing lock is closed"
-msgstr  ""
+msgstr  "페어링 잠금"
 
 #: lib/logitech_receiver/notifications.py:64
 #: lib/logitech_receiver/notifications.py:116
 msgid   "pairing lock is open"
-msgstr  ""
+msgstr  "페어링 잠금 해제"
 
 #: lib/logitech_receiver/notifications.py:81
 msgid   "discovery lock is closed"
@@ -354,42 +354,42 @@ msgstr  ""
 
 #: lib/logitech_receiver/notifications.py:210 lib/solaar/listener.py:238
 msgid   "connected"
-msgstr  ""
+msgstr  "연결됨"
 
 #: lib/logitech_receiver/notifications.py:210 lib/solaar/listener.py:238
 msgid   "disconnected"
-msgstr  ""
+msgstr  "연결 끊어짐"
 
 #: lib/logitech_receiver/notifications.py:236
 msgid   "unpaired"
-msgstr  ""
+msgstr  "연결되지 않음"
 
 #: lib/logitech_receiver/notifications.py:283
 msgid   "powered on"
-msgstr  ""
+msgstr  "전원 켜기"
 
 #: lib/logitech_receiver/receiver.py:371
 msgid   "No paired devices."
-msgstr  ""
+msgstr  "연결된 장치 없음"
 
 #: lib/logitech_receiver/receiver.py:373 lib/solaar/ui/window.py:604
 #, python-format
 msgid   "%(count)s paired device."
 msgid_plural    "%(count)s paired devices."
-msgstr[0]       ""
-msgstr[1]       ""
+msgstr[0]       "%(count)s 개의 연결된 장치"
+msgstr[1]       "%(count)s 개의 연결된 장치."
 
 #: lib/logitech_receiver/settings.py:611
 msgid   "register"
-msgstr  ""
+msgstr  "장치 등록"
 
 #: lib/logitech_receiver/settings.py:625 lib/logitech_receiver/settings.py:651
 msgid   "feature"
-msgstr  ""
+msgstr  "특징"
 
 #: lib/logitech_receiver/settings_templates.py:122
 msgid   "Swap Fx function"
-msgstr  ""
+msgstr  "Fx function 변경"
 
 #: lib/logitech_receiver/settings_templates.py:125
 msgid   "When set, the F1..F12 keys will activate their special function,\n"
@@ -403,7 +403,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:138
 msgid   "Hand Detection"
-msgstr  ""
+msgstr  "손 감지"
 
 #: lib/logitech_receiver/settings_templates.py:139
 msgid   "Turn on illumination when the hands hover over the keyboard."
@@ -431,13 +431,13 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:166
 msgid   "Sensitivity (DPI - older mice)"
-msgstr  ""
+msgstr  "민감도 (DPI -oler mice)"
 
 #: lib/logitech_receiver/settings_templates.py:167
 #: lib/logitech_receiver/settings_templates.py:955
 #: lib/logitech_receiver/settings_templates.py:983
 msgid   "Mouse movement sensitivity"
-msgstr  ""
+msgstr  "마우스 동작 민감도"
 
 #: lib/logitech_receiver/settings_templates.py:240
 msgid   "Backlight Timed"
@@ -450,7 +450,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:252
 msgid   "Backlight"
-msgstr  ""
+msgstr  "백라이트"
 
 #: lib/logitech_receiver/settings_templates.py:253
 msgid   "Illumination level on keyboard.  Changes made are only applied in "
@@ -459,19 +459,19 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:285
 msgid   "Automatic"
-msgstr  ""
+msgstr  "자동"
 
 #: lib/logitech_receiver/settings_templates.py:287
 msgid   "Manual"
-msgstr  ""
+msgstr  "메뉴얼"
 
 #: lib/logitech_receiver/settings_templates.py:289
 msgid   "Enabled"
-msgstr  ""
+msgstr  "가능한"
 
 #: lib/logitech_receiver/settings_templates.py:295
 msgid   "Backlight Level"
-msgstr  ""
+msgstr  "백라이트 레벨"
 
 #: lib/logitech_receiver/settings_templates.py:296
 msgid   "Illumination level on keyboard when in Manual mode."
@@ -504,7 +504,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:380
 msgid   "Backlight (Seconds)"
-msgstr  ""
+msgstr  "백라이트 (초)"
 
 #: lib/logitech_receiver/settings_templates.py:392
 msgid   "Scroll Wheel High Resolution"
@@ -527,7 +527,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:412
 msgid   "Scroll Wheel Direction"
-msgstr  ""
+msgstr  "스크롤 휠 방향"
 
 #: lib/logitech_receiver/settings_templates.py:413
 msgid   "Invert direction for vertical scroll with wheel."
@@ -544,7 +544,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:445
 msgid   "Sensitivity (Pointer Speed)"
-msgstr  ""
+msgstr  "민감도 (포인터 속도)"
 
 #: lib/logitech_receiver/settings_templates.py:446
 msgid   "Speed multiplier for mouse (256 is normal multiplier)."
@@ -682,7 +682,7 @@ msgstr  ""
 #: lib/logitech_receiver/settings_templates.py:866
 #: lib/logitech_receiver/settings_templates.py:867
 msgid   "Mouse Gestures"
-msgstr  ""
+msgstr  "마우스 제스처"
 
 #: lib/logitech_receiver/settings_templates.py:866
 #: lib/logitech_receiver/settings_templates.py:867
@@ -697,7 +697,7 @@ msgstr  ""
 #: lib/logitech_receiver/settings_templates.py:954
 #: lib/logitech_receiver/settings_templates.py:982
 msgid   "Sensitivity (DPI)"
-msgstr  ""
+msgstr  "민감도 (DPI)"
 
 #: lib/logitech_receiver/settings_templates.py:1059
 msgid   "Sensitivity Switching"
@@ -712,7 +712,7 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:1065
 msgid   "Off"
-msgstr  ""
+msgstr  "끄기"
 
 #: lib/logitech_receiver/settings_templates.py:1096
 msgid   "Disable keys"
@@ -730,16 +730,16 @@ msgstr  ""
 #: lib/logitech_receiver/settings_templates.py:1113
 #: lib/logitech_receiver/settings_templates.py:1170
 msgid   "Set OS"
-msgstr  ""
+msgstr  "OS 설정"
 
 #: lib/logitech_receiver/settings_templates.py:1114
 #: lib/logitech_receiver/settings_templates.py:1171
 msgid   "Change keys to match OS."
-msgstr  ""
+msgstr  "OS에 맞춰 키 변경하기"
 
 #: lib/logitech_receiver/settings_templates.py:1183
 msgid   "Change Host"
-msgstr  ""
+msgstr  "호스트 변경"
 
 #: lib/logitech_receiver/settings_templates.py:1184
 msgid   "Switch connection to a different host"
@@ -787,11 +787,11 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:1219
 msgid   "Tap and drag"
-msgstr  ""
+msgstr  "탭, 드래그"
 
 #: lib/logitech_receiver/settings_templates.py:1221
 msgid   "Tap and drag with two fingers"
-msgstr  ""
+msgstr  "탭, 두 손가락으로 드래그"
 
 #: lib/logitech_receiver/settings_templates.py:1222
 msgid   "Drags items by dragging the fingers after double tapping."
@@ -811,18 +811,18 @@ msgstr  ""
 
 #: lib/logitech_receiver/settings_templates.py:1230
 msgid   "Scroll with one finger"
-msgstr  ""
+msgstr  "한 손가락으로 스크롤"
 
 #: lib/logitech_receiver/settings_templates.py:1230
 #: lib/logitech_receiver/settings_templates.py:1231
 #: lib/logitech_receiver/settings_templates.py:1234
 msgid   "Scrolls."
-msgstr  ""
+msgstr  "스크롤하기."
 
 #: lib/logitech_receiver/settings_templates.py:1231
 #: lib/logitech_receiver/settings_templates.py:1234
 msgid   "Scroll with two fingers"
-msgstr  ""
+msgstr  "두 손가락으로 스크롤"
 
 #: lib/logitech_receiver/settings_templates.py:1232
 msgid   "Scroll horizontally with two fingers"
@@ -1363,7 +1363,7 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:552 lib/solaar/ui/rule_conditions.py:181
 msgid   "Report"
-msgstr  ""
+msgstr  "리포트"
 
 #: lib/solaar/ui/diversion_rules.py:553 lib/solaar/ui/rule_conditions.py:60
 msgid   "Process"
@@ -1392,7 +1392,7 @@ msgstr  ""
 #: lib/solaar/ui/diversion_rules.py:559 lib/solaar/ui/diversion_rules.py:1316
 #: lib/solaar/ui/diversion_rules.py:1368 lib/solaar/ui/diversion_rules.py:1418
 msgid   "Device"
-msgstr  ""
+msgstr  "장치"
 
 #: lib/solaar/ui/diversion_rules.py:560 lib/solaar/ui/diversion_rules.py:1394
 msgid   "Host"
@@ -1400,12 +1400,12 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:561 lib/solaar/ui/diversion_rules.py:1436
 msgid   "Setting"
-msgstr  ""
+msgstr  "설정"
 
 #: lib/solaar/ui/diversion_rules.py:562 lib/solaar/ui/rule_conditions.py:326
 #: lib/solaar/ui/rule_conditions.py:375
 msgid   "Test"
-msgstr  ""
+msgstr  "테스트"
 
 #: lib/solaar/ui/diversion_rules.py:563 lib/solaar/ui/rule_conditions.py:500
 msgid   "Test bytes"
@@ -1417,7 +1417,7 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:568
 msgid   "Action"
-msgstr  ""
+msgstr  "동작"
 
 #: lib/solaar/ui/diversion_rules.py:570 lib/solaar/ui/rule_actions.py:132
 msgid   "Key press"
@@ -1425,11 +1425,11 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:571 lib/solaar/ui/rule_actions.py:183
 msgid   "Mouse scroll"
-msgstr  ""
+msgstr  "마우스 스크롤"
 
 #: lib/solaar/ui/diversion_rules.py:572 lib/solaar/ui/rule_actions.py:244
 msgid   "Mouse click"
-msgstr  ""
+msgstr  "마우스 클릭"
 
 #: lib/solaar/ui/diversion_rules.py:573
 msgid   "Set"
@@ -1445,12 +1445,12 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:604
 msgid   "Insert new rule"
-msgstr  ""
+msgstr  "새로운 규칙 추가"
 
 #: lib/solaar/ui/diversion_rules.py:624 lib/solaar/ui/rule_actions.py:74
 #: lib/solaar/ui/rule_actions.py:273 lib/solaar/ui/rule_conditions.py:548
 msgid   "Delete"
-msgstr  ""
+msgstr  "삭제"
 
 #: lib/solaar/ui/diversion_rules.py:646
 msgid   "Negate"
@@ -1462,15 +1462,15 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:692
 msgid   "Cut"
-msgstr  ""
+msgstr  "자르기"
 
 #: lib/solaar/ui/diversion_rules.py:707
 msgid   "Paste"
-msgstr  ""
+msgstr  "붙여넣기"
 
 #: lib/solaar/ui/diversion_rules.py:713
 msgid   "Copy"
-msgstr  ""
+msgstr  "복사"
 
 #: lib/solaar/ui/diversion_rules.py:1014
 msgid   "This editor does not support the selected rule component yet."
@@ -1487,7 +1487,7 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:1145
 msgid   "Toggle"
-msgstr  ""
+msgstr  "토글"
 
 #: lib/solaar/ui/diversion_rules.py:1146
 msgid   "True"
@@ -1499,7 +1499,7 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:1160
 msgid   "Unsupported setting"
-msgstr  ""
+msgstr  "지원되지 않는 설정"
 
 #: lib/solaar/ui/diversion_rules.py:1322 lib/solaar/ui/diversion_rules.py:1342
 #: lib/solaar/ui/diversion_rules.py:1424 lib/solaar/ui/diversion_rules.py:1669
@@ -1521,11 +1521,11 @@ msgstr  ""
 
 #: lib/solaar/ui/diversion_rules.py:1445
 msgid   "Value"
-msgstr  ""
+msgstr  "값"
 
 #: lib/solaar/ui/diversion_rules.py:1454
 msgid   "Item"
-msgstr  ""
+msgstr  "아이템"
 
 #: lib/solaar/ui/diversion_rules.py:1728
 msgid   "Change setting on device"
@@ -1563,7 +1563,7 @@ msgstr  ""
 
 #: lib/solaar/ui/pair_window.py:48
 msgid   "Turn on the device you want to pair."
-msgstr  ""
+msgstr  "연결하고 싶은 장치의 전원을 켜세요"
 
 #: lib/solaar/ui/pair_window.py:49
 msgid   "The device must not be paired with a nearby powered-on receiver."
@@ -1571,7 +1571,7 @@ msgstr  ""
 
 #: lib/solaar/ui/pair_window.py:51
 msgid   "If the device is already turned on, turn it off and on again."
-msgstr  ""
+msgstr  "장치에 전원이 켜져있다면 컸다가 다시 시도해주세요"
 
 #: lib/solaar/ui/pair_window.py:55
 #, python-format
@@ -1601,11 +1601,11 @@ msgstr  ""
 
 #: lib/solaar/ui/pair_window.py:162
 msgid   "left"
-msgstr  ""
+msgstr  "왼쪽"
 
 #: lib/solaar/ui/pair_window.py:162
 msgid   "right"
-msgstr  ""
+msgstr  "오른쪽"
 
 #: lib/solaar/ui/pair_window.py:164
 #, python-format
@@ -1619,11 +1619,11 @@ msgstr  ""
 
 #: lib/solaar/ui/pair_window.py:200
 msgid   "Found a new device:"
-msgstr  ""
+msgstr  "새로운 장치 발견"
 
 #: lib/solaar/ui/pair_window.py:221
 msgid   "Pairing failed"
-msgstr  ""
+msgstr  "연결 실패"
 
 #: lib/solaar/ui/pair_window.py:223
 msgid   "Make sure your device is within range, and has a decent battery "
@@ -1650,11 +1650,11 @@ msgstr  ""
 
 #: lib/solaar/ui/rule_actions.py:53
 msgid   "Add key"
-msgstr  ""
+msgstr  "키 추가"
 
 #: lib/solaar/ui/rule_actions.py:56
 msgid   "Click"
-msgstr  ""
+msgstr  "클릭"
 
 #: lib/solaar/ui/rule_actions.py:59
 msgid   "Depress"
@@ -1676,7 +1676,7 @@ msgstr  ""
 
 #: lib/solaar/ui/rule_actions.py:206
 msgid   "Button"
-msgstr  ""
+msgstr  "버튼"
 
 #: lib/solaar/ui/rule_actions.py:207
 msgid   "Count and Action"
@@ -1756,11 +1756,11 @@ msgstr  ""
 
 #: lib/solaar/ui/rule_conditions.py:413
 msgid   "minimum"
-msgstr  ""
+msgstr  "최소"
 
 #: lib/solaar/ui/rule_conditions.py:414
 msgid   "maximum"
-msgstr  ""
+msgstr  "최대"
 
 #: lib/solaar/ui/rule_conditions.py:416
 #, python-format
@@ -1783,7 +1783,7 @@ msgstr  ""
 
 #: lib/solaar/ui/rule_conditions.py:440
 msgid   "type"
-msgstr  ""
+msgstr  "타입"
 
 #: lib/solaar/ui/rule_conditions.py:528
 msgid   "Mouse gesture with optional initiating button followed by zero or "
@@ -1792,16 +1792,16 @@ msgstr  ""
 
 #: lib/solaar/ui/rule_conditions.py:533
 msgid   "Add movement"
-msgstr  ""
+msgstr  "동작 추가"
 
 #: lib/solaar/ui/tray.py:50
 msgid   "No supported device found"
-msgstr  ""
+msgstr  "지원하지 않는 장치 발견"
 
 #: lib/solaar/ui/tray.py:55 lib/solaar/ui/window.py:310
 #, python-format
 msgid   "About %s"
-msgstr  ""
+msgstr  "대락 %s"
 
 #: lib/solaar/ui/tray.py:56 lib/solaar/ui/window.py:308
 #, python-format
@@ -1814,19 +1814,19 @@ msgstr  ""
 
 #: lib/solaar/ui/tray.py:288 lib/solaar/ui/tray.py:293
 msgid   "offline"
-msgstr  ""
+msgstr  "오프라인"
 
 #: lib/solaar/ui/tray.py:291
 msgid   "no status"
-msgstr  ""
+msgstr  "상태 정보 없음"
 
 #: lib/solaar/ui/window.py:91
 msgid   "Scanning"
-msgstr  ""
+msgstr  "읽는 중"
 
 #: lib/solaar/ui/window.py:122
 msgid   "Battery"
-msgstr  ""
+msgstr  "배터리"
 
 #: lib/solaar/ui/window.py:125
 msgid   "Wireless Link"
@@ -1842,15 +1842,15 @@ msgstr  ""
 
 #: lib/solaar/ui/window.py:179
 msgid   "Pair new device"
-msgstr  ""
+msgstr  "새로운 장치 연결"
 
 #: lib/solaar/ui/window.py:197
 msgid   "Select a device"
-msgstr  ""
+msgstr  "장치 선택"
 
 #: lib/solaar/ui/window.py:313
 msgid   "Rule Editor"
-msgstr  ""
+msgstr  "규칙 수정하기"
 
 #: lib/solaar/ui/window.py:517
 msgid   "Path"
@@ -1863,11 +1863,11 @@ msgstr  ""
 #: lib/solaar/ui/window.py:523 lib/solaar/ui/window.py:525
 #: lib/solaar/ui/window.py:540 lib/solaar/ui/window.py:542
 msgid   "Serial"
-msgstr  ""
+msgstr  "시리얼"
 
 #: lib/solaar/ui/window.py:529
 msgid   "Index"
-msgstr  ""
+msgstr  "인덱스"
 
 #: lib/solaar/ui/window.py:531
 msgid   "Wireless PID"
@@ -1875,15 +1875,15 @@ msgstr  ""
 
 #: lib/solaar/ui/window.py:533
 msgid   "Product ID"
-msgstr  ""
+msgstr  "제품 ID"
 
 #: lib/solaar/ui/window.py:535
 msgid   "Protocol"
-msgstr  ""
+msgstr  "프로토콜"
 
 #: lib/solaar/ui/window.py:535
 msgid   "Unknown"
-msgstr  ""
+msgstr  "알 수 없음"
 
 #: lib/solaar/ui/window.py:537
 msgid   "Polling rate"
@@ -1891,15 +1891,15 @@ msgstr  ""
 
 #: lib/solaar/ui/window.py:544
 msgid   "Unit ID"
-msgstr  ""
+msgstr  "유닛 ID"
 
 #: lib/solaar/ui/window.py:558
 msgid   "Notifications"
-msgstr  ""
+msgstr  "알림"
 
 #: lib/solaar/ui/window.py:602
 msgid   "No device paired."
-msgstr  ""
+msgstr  "장치가 연결되지 않았습니다."
 
 #: lib/solaar/ui/window.py:611
 #, python-format
@@ -1941,7 +1941,7 @@ msgstr  ""
 
 #: lib/solaar/ui/window.py:711
 msgid   "encrypted"
-msgstr  ""
+msgstr  "암호화"
 
 #: lib/solaar/ui/window.py:713
 msgid   "The wireless link between this device and its receiver is encrypted."
@@ -1949,7 +1949,7 @@ msgstr  ""
 
 #: lib/solaar/ui/window.py:715
 msgid   "not encrypted"
-msgstr  ""
+msgstr  "암호화되지 않음"
 
 #: lib/solaar/ui/window.py:719
 msgid   "The wireless link between this device and its receiver is not "
