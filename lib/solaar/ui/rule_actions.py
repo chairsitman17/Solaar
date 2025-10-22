@@ -54,6 +54,7 @@ class KeyPressUI(ActionUI):
             label=_("Simulate a chorded key click or depress or release.\nOn Wayland requires write access to /dev/uinput."),
             halign=Gtk.Align.CENTER,
             justify=Gtk.Justification.CENTER
+            justify=Gtk.Justification.CENTER
         )
         self.widgets[self.label] = (0, 0, 5, 1)
         self.del_btns = []
@@ -73,6 +74,7 @@ class KeyPressUI(ActionUI):
     def _create_field(self):
         field_entry = CompletionEntry(self.KEY_NAMES, halign=Gtk.Align.CENTER, valign=Gtk.Align.END, hexpand=True)
         field_entry.connect(GtkSignal.CHANGED.value, self._on_update)
+        field_entry.set_size_request(250, -1)
         field_entry.set_size_request(250, -1)
         self.fields.append(field_entry)
         self.widgets[field_entry] = (len(self.fields) - 1, 1, 1, 1)
@@ -153,6 +155,9 @@ class MouseScrollUI(ActionUI):
             label=_("Simulate a mouse scroll.\nOn Wayland requires write access to /dev/uinput."),
             halign=Gtk.Align.CENTER,
             justify=Gtk.Justification.CENTER
+            label=_("Simulate a mouse scroll.\nOn Wayland requires write access to /dev/uinput."),
+            halign=Gtk.Align.CENTER,
+            justify=Gtk.Justification.CENTER
         )
         self.widgets[self.label] = (0, 0, 4, 1)
         self.label_x = Gtk.Label(label="x", halign=Gtk.Align.END, valign=Gtk.Align.END, hexpand=True)
@@ -208,6 +213,9 @@ class MouseClickUI(ActionUI):
     def create_widgets(self):
         self.widgets = {}
         self.label = Gtk.Label(
+            label=_("Simulate a mouse click.\nOn Wayland requires write access to /dev/uinput."),
+            halign=Gtk.Align.CENTER,
+            justify=Gtk.Justification.CENTER
             label=_("Simulate a mouse click.\nOn Wayland requires write access to /dev/uinput."),
             halign=Gtk.Align.CENTER,
             justify=Gtk.Justification.CENTER
